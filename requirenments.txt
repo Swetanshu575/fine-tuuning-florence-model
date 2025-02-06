@@ -1,8 +1,13 @@
-datasets flash_attn timm einops bitsandbytes accelerate
+streamlit
+datasets
+flash_attn
+timm
+einops
+bitsandbytes
+accelerate
 transformers
-AutoProcessor
-AutoModelForCausalLM
-PIL
-Image 
-ImageDraw
-ImageFont
+huggingface_hub
+pillow
+torch
+matplotlib
+numpy
