@@ -1,0 +1,8 @@
+datasets flash_attn timm einops bitsandbytes accelerate
+transformers
+AutoProcessor
+AutoModelForCausalLM
+PIL
+Image 
+ImageDraw
+ImageFont
