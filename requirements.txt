@@ -1,14 +1,26 @@
+# Core dependencies
+streamlit
+
+# Hugging Face & Transformers
 transformers
 huggingface_hub
+
+# PyTorch (Install separately based on CUDA)
 torch
 torchvision
 torchaudio
+
+# ML & Performance Optimization
 datasets
-flash_attn
-timm
 einops
 bitsandbytes
 accelerate
+timm
+
+# Flash Attention (install after torch)
+flash_attn
+
+# Image Processing
 pillow
 numpy
 matplotlib
