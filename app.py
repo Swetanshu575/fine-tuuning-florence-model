@@ -1,4 +1,5 @@
 import streamlit as st
+import transformers
 from transformers import AutoProcessor, AutoModelForCausalLM
 from PIL import Image, ImageDraw
 import torch
